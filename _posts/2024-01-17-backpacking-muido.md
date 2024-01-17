@@ -2,7 +2,7 @@
 layout: post
 title:  "무의도, Sep. 2024 "
 author: #mrkyia
-categories: [ Travels, 백패킹, 무의도 ]
+categories: [ Travels, 무의도 ]
 image: assets/images/2024-01-17_1.jpg
 ---
 몇 개월 전 선자령에서 만난 분이 알려주신 곳.
