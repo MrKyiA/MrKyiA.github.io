@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "선자령, May. 2024 "
+title:  "선자령, May. 2023 "
 author: #mrkyia
 categories: [ Travels, 선자령 ]
-image: assets/images/2024-01-18_3.jpg
+image: assets/images/2024-01-18-backpacking sunjaryung/2024-01-18_3.jpg
 ---
 몇 개월 전 선자령에서 만난 분이 알려주신 곳.
