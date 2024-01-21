@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "무의도, Sep. 2024 "
+title:  "무의도, Sep. 2023 "
 author: #mrkyia
 categories: [ Travels, 무의도 ]
 image: assets/images/2024-01-17-backpacking muido/2024-01-17_1.jpg
