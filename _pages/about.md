@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mrkyia :D
+title: mrkyia [믈ː캬] 의 블로그  
 permalink: /about
 comments: true
 ---
@@ -8,31 +8,12 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<!--
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
--->
+<h5> # 게으른데 정리가 필요할 때 </h5>
+<p> 
+ 그렇다면 큰 박스에 마구 담아 창고에 쌓아두는게 최고죠.<br>
+ 이 곳이 바로 그런 곳입니다.<br>
+ 순간의 번뜩이는 생각과 감정을 가벼운 마음으로 이 곳에 던져두려고 합니다.<br>
+ 투박한 포스팅이지만 이 곳의 기록들이 나중의 제게 도움이 되길 바라면서요.<br>
+ 모쪼록 잘 부탁드립니다.<br>
+ </p>
 </div>
-
-<div class="col-md-4">
-
-
-</div>
-</div>
-
-<!--div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div-->
