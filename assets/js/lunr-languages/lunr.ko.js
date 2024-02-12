@@ -64,9 +64,9 @@
       // if (isLunr2) { // for lunr version 2.0.0
       //   this.tokenizer = lunr.ko.tokenizer;
       // } else {
-      //   if (lunr.tokenizer) { // for lunr version 0.6.0
-      //     lunr.tokenizer = lunr.ko.tokenizer;
-      //   }
+      if (lunr.tokenizer) { // for lunr version 0.6.0
+        lunr.tokenizer = lunr.ko.tokenizer;
+      }
       //   if (this.tokenizerFn) { // for lunr version 0.7.0 -> 1.0.0
       //     this.tokenizerFn = lunr.ko.tokenizer;
       //   }
