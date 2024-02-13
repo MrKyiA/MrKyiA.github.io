@@ -340,7 +340,7 @@ span.post-read-more a:hover {
 blockquote {
     border-left: 4px solid #00ab6b;
     padding: 0 15px;
-    font-style: italic;
+    font-style:  'GangwonEduHyeonokT_OTFMediumA';
     color: rgba(0, 0, 0, .5);
 }
 
@@ -349,13 +349,24 @@ blockquote {
     margin: 0 0 1.5rem 0;
 }
 .article-post p{
-    font-size: 0.83rem;
+    font-size: 0.89rem;
 }
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
 }
-
+.long-image {
+    width: 65%;
+    border: 1px solid #ccc;
+    display: block;
+    margin: 0 auto;
+}
+.short-image {
+    width: 95%;
+    border: 1px solid #ccc;
+    display: block;
+    margin: 0 auto;
+}
 .share {
     text-align: center;
 }
@@ -722,7 +733,7 @@ h6 {
 }
 
 img {
-    max-width: 100%;
+    max-width: 95%;
 }
 
 .bottompagination span.navigation {
@@ -900,4 +911,11 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+@font-face {
+    font-family: 'GangwonEduHyeonokT_OTFMediumA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduHyeonokT_OTFMediumA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
