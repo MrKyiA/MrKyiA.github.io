@@ -6,9 +6,8 @@ categories: [ Travels ]
 tag : [ 백패킹, 선자령 ]
 image: assets/images/2024-01-18-backpacking seonjaryeong/main_site_seonjaryeong_backpacking.webp
 ---
-##### # 절대 밖으로 나가!!
+##### # 절대 밖으로 나가야만 하는 날씨
 특별한 계획없이 집에서 푹 쉬어야 겠다는 생각으로 맞이한 연휴 첫 날, 날씨가 얼마나 좋던지 집 앞 편의점에 다녀오는데도 기분이 좋아졌다. 거실 창문을 활짝 열고 의자를 최대한 뒤로 젖혀 앉아서 일광욕을 하다가 문득 절대 지붕 아래 있어서는 안되겠다는 생각이 들었다. 뭘 하면 좋을까 고민하다가 올해 백패킹을 개시 해보기로 했다.  
-"For night, we dine in wild!"  
 신나서 백패킹 메이트 W에게 연락을 하려다 연휴 간 일정이 있다고 했던 것이 기억났다. 그럼 혼자 가보지 뭐.   
 어딜 가면 좋을까 찾아보기 시작했는데, 행선지는 금새 정할 수 있었다. 초보 백패커에게는 안 가본 곳이 아주 많기 때문에 :D   
 "뚜벅이 선자령 후기"를 찾아보고 횡계로 가는 시외버스를 예약했다.    
@@ -77,7 +76,6 @@ image: assets/images/2024-01-18-backpacking seonjaryeong/main_site_seonjaryeong_
    
 비슷한 고개를 한 두 개 더 넘으니 탁 트인 넓은 언덕이 나왔다. 누가 봐도 여기가 메인 사이트 였다. 넓직한 잔디밭과 경사면을 따라 내려다 보이는 다른 언덕들. 그런데,      분위기가 좀 이상했다.
 
-##### # 여기 전쟁났나요?
 노랑 빨강 예쁜 텐트가 여기저기 있어야 할 언덕에는 시커먼 텐트 한 동 보이질 않고, 힘차게 돌아야할 터빈은 날개 하나가 똑 부러져 멈춰있었다. 이게.. 뭐죠?  
   
 ![정상비석](../assets/images/2024-01-18-backpacking seonjaryeong/summit milestone_seonjaryeong.webp){: .long-image}

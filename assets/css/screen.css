@@ -118,6 +118,8 @@ section.recent-posts {
 
 .maxthumb {
     max-height: 300px;
+    border-top-left-radius: 1%;
+    border-top-right-radius: 1%;
     overflow: hidden;
 }
 
@@ -352,20 +354,27 @@ blockquote {
     font-size: 0.89rem;
 }
 .featured-image {
+    width: 98%;
     display: block;
     margin-bottom: 1.5rem;
+    border-radius: 1%; 
+    overflow: hidden;
 }
 .long-image {
-    width: 65%;
+    width: 75%;
     border: 1px solid #ccc;
     display: block;
     margin: 0 auto;
+    border-radius: 1%; 
+    overflow: hidden;
 }
 .short-image {
-    width: 95%;
+    width: 98%;
     border: 1px solid #ccc;
     display: block;
     margin: 0 auto;
+    border-radius: 1%; 
+    overflow: hidden;
 }
 .share {
     text-align: center;

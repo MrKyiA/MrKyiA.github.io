@@ -9,19 +9,16 @@ permalink: "/category.html"
   {% for category in site.categories %}
     {% assign currentCategory = category[0] | replace: " ","-" %}
     {% if currentCategory == callingPageTitle %}
-      {% assign categoryMd = site.pages | where: "layout", "category" | where: "title", currentCategory | first %}
-
-      {% if categoryMd %}
+      {% assign categoryMd = site.pages | where_exp: "item", "item.title == currentCategory" | first %}
         <div class="section-title col-md-12 mt-4">
-          <h2 id="{{ currentCategory }}">Category <span class="text-capitalize">{{ categoryMd.title | replace: '&quot;', '\"' }}</span></h2>
+          <h2 id="{{ currentCategory }}"> <span class="text-capitalize">{{ categoryMd.title | replace: '&quot;', '\"' }}</span></h2>
         </div>
         {% assign pages_list = category[1] %}
         {% for post in pages_list %}
-          {% if post.title and (group == null or group == post.group) and post.layout == "category" and post.title == currentCategory %}
+          {% if post.title and (group == null or group == post.group) and post.title == currentCategory %}
             {% include postbox.html %}
           {% endif %}
         {% endfor %}
-      {% endif %}
     {% endif %}
   {% endfor %}
 </div>
