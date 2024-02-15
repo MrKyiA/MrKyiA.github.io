@@ -34,7 +34,7 @@ pre {
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 7px;
-    font-family: "Dongle", sans-serif, monospace, sans-serif;
+    font-family: 'NanumSquareNeo-Variable', monospace, sans-serif;
     font-size: .9rem;
     white-space: pre;
     overflow: auto;
@@ -340,7 +340,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: "Dongle", sans-serif, Merriweather;
+    font-family: 'NanumSquareNeo-Variable', Merriweather;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -720,7 +720,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Dongle", sans-serif, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'NanumSquareNeo-Variable', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .article-post .h1,
@@ -746,7 +746,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: "Dongle", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: 'NanumSquareNeo-Variable', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
 }
 
@@ -935,29 +935,9 @@ iframe {
     transition: opacity .25s;
 }
 
-.dongle-light {
-    font-family: "Dongle", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-}
-
-.dongle-regular {
-    font-family: "Dongle", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.dongle-bold {
-    font-family: "Dongle", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-}
-
 @font-face {
-    font-family: 'GangwonEduHyeonokT_OTFMediumA';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduHyeonokT_OTFMediumA.woff') format('woff');
+    font-family: 'NanumSquareNeo-Variable';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap') 
