@@ -96,17 +96,29 @@ J씨는 부러진 터빈에서 정상비로 가는 길 오른쪽 편의 작은 �
   
 ![일몰전](../assets/images/2024-01-18-backpacking seonjaryeong/hello_seonjaryeong.webp){: .long-image}
   
-일몰을 보러 J씨랑 같이 길을 나섰다. 잠시 쉬면서도 잠깐 잠깐 나가서 바람이 좀 잦아들었는지 몇번 확인했었는데, J씨는 자기가 물을 많이 끓였다며 따뜻한 차를 
-
+일몰을 보러 j씨와 함께 길을 나섰다. 쉬면서 중간중간 바람이 멎었는지 언덕에 나가보곤 했는데, 이때 쯤에서야 비로소 이사를 포기하게 되었다. 언덕은 여전히 바람이 심했다. 머리까지 덮어쓴 바람막이가 펄럭거리며 쉴새없이 귀를 때렸다. 추위에 들고 간 밀크티가 금새 식어버렸다. 구름에 가려 일몰이 잘 보이지 않았고 또 바람이 너무 강해서 서로 사진 몇 장 찍어주고 빠르게 철수했다. 
+  
 ![저녁](../assets/images/2024-01-18-backpacking seonjaryeong/dinner_seonjaryeong.webp){: .short-image}
-
+  
+돌아가는 길에 J는 같이 술 한 잔 하자고 했다. 너무 좋지요. 돌아와서 먹을 것과 술을 챙겨 나서는데 가진 게 편의점 오뎅과 육포 밖에 없어서 민망했다. 인심 좋은 그는 가진 것도 많아서 또 한 번 신세를 지고말았다. 얘기는 재밌었다. 무엇보다 백패킹이라는 공통의 취미가 있어서 말이 잘 통했던 것 같다. 덕분에 서울 근교에 괜찮은 박지도 많이 알게되어서 까먹지 않으려 몇 번이고 중간중간 메모를 했다. 이렇게 백패킹 중에 새로운 사람을 만나 술 한잔 하는 게 처음 이었는데 나름 재밌고 즐거웠다.
+  
 ![자기전](../assets/images/2024-01-18-backpacking seonjaryeong/windy_night_seonjaryeong.webp){: .short-image}
-
+  
+자리를 정리한 후 언덕에 한 번 더 가보기로 했다. 날이 좋으면 예쁜 텐풍을 볼 수 있었을텐데. 아쉽지만 별 수 없이 다음을 기약해 본다.  
+  
 ![텐풍](../assets/images/2024-01-18-backpacking seonjaryeong/before_sleep_seonjaryeong.webp){: .long-image}
   
+자러 들어가기 전 달빛이 너무 예뻐서 추위에 덜덜 떨며 텐트를 중심으로 몇 장 찍었다. 역시나 제대로 된 사진이 없다. 그래도 그 것 나름 그 때의 분위기와 추위가 느껴져서 맘에 든다. 기분좋은 취기에 잠이 들었다.
+  
+##### # 이 곳 선자령에서 가장 좋았던 순간
+  
 ![일출](../assets/images/2024-01-18-backpacking seonjaryeong/morning_seonjaryeong.webp){: .long-image}
-
+  
+새벽녘에 우박이 떨어지는 소리에 잠이 깼다. 무서울 정도로 떨어지다 말다를 반복했는데, 그 소리가 꽤 듣기 좋아 이내 다시 잠이 들었다. 다시 눈을 뜨니 하늘이 밝았다. 텐트를 열었더니 눈앞에서 구름위로 해가 올라오고 있었다. 침낭 애벌레인 채로 일출을 보니 편하고 좋았다.
+  
 ![나팔꽃](../assets/images/2024-01-18-backpacking seonjaryeong/trumpet_flower_seonjaryeong.webp){: .long-image}
+  
+해가 어느정도 올라오니 주변이 보이기 시작하면서 숨이 멎을 정도로 예쁜 꽃이 보였다. 간밤에 우박을 잔뜩 맞아 언 몸을 녹이고 있는 것 같았다. 
   
 ![구름](../assets/images/2024-01-18-backpacking seonjaryeong/mist_like_cloud_seonjaryeong.webp){: .short-image}
   
