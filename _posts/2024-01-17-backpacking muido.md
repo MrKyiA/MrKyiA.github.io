@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "무의도, Sep. 2023 "
+title:  "세렝게티 무의도 백패킹 후기 - Sep.2023"
 author: #mrkyia
-categories: [ Reviews ]
+categories: [ Travels ]
 tag : [ 백패킹, 무의도 ]
-image: assets/images/2024-01-17-backpacking muido/2024-01-17_1.jpg
+image: assets/images/2024-02-01-backpacking muuido/camp_site_muuido.webp
 ---
 몇 개월 전 선자령에서 만난 분이 알려주신 곳.
 
