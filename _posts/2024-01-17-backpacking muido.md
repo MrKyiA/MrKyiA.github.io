@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "세렝게티 무의도 백패킹 후기 - Sep.2023"
+title:  "한국의 세렝게티 무의도 백패킹 후기 - Sep.2023"
 author: #mrkyia
 categories: [ Travels ]
 tag : [ 백패킹, 무의도 ]
