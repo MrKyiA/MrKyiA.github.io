@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "억새 군락지 오서산 백패킹 후기 - Sep.2023"
+title:  "억새 군락지 오서산 백패킹 후기 - Oct.2023"
 author: #mrkyia
 categories: [ Travels ]
 tag : [ 백패킹, 오서산 ]
