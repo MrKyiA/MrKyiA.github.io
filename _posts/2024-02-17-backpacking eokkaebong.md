@@ -78,7 +78,7 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
 
 ![하늘전망대풍경](../assets/images/2024-02-17-backpacking eokkaebong/veiw_eokkaebong.webp){: .short-image}
   
-구불구불 흐르는 금강 줄기와 겹겹이 서 있는 산들이 발 아래로 펼쳐진다. 그림과 같은 풍경에 한참을 멍 하니 구경하다가 두 분이 피칭을 준비하고 계셔서 배낭을 놓아둔 정상으로 돌아갔다.
+구불구불 흐르는 금강 줄기와 겹겹이 서 있는 산들이 발 아래로 펼쳐진다. 그림 같은 풍경을 멍 하니 구경하다가 두 분이 피칭을 준비하고 계셔서 배낭을 놓아둔 정상으로 돌아갔다.
 
 ##### # 정상에서의 하룻밤  
 ![한상차림](../assets/images/2024-02-17-backpacking eokkaebong/dinner_table_eokkaebong.webp){: .long-image}
@@ -107,20 +107,22 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
   
 자러 들어가기 전 주변을 돌아보니 급격히 떨어진 온도에 이미 강가를 따라 운해가 올라오고 있었다. 밤 사이 바람이 강하지 않기를 기도하며 잠이 들었다.  
    
-##### # 인생 첫 운해, 대성공
+##### # 인생 첫 운해 대성공
 ![일출1](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_3_eokkaebong.webp){: .short-image}
   
-우와, 하는 소리에 잠이 깨 헐레벌떡 텐트 밖으로 나왔다. 눈 앞에 펼쳐진 광경에 나 역시 우와가 절로 나왔다. 
+우와, 하는 소리에 잠이 깨 헐레벌떡 텐트 밖으로 나왔다. 눈 앞에 펼쳐진 광경에 나 역시 우와ㅏㅏㅏ가 절로 나왔다. 먼저 나와 계신 분들과 인사를 하고 다시 서로 우와우와 했다.
 
-![일출2](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_eokkaebong.webp){: .short-image}
-  
+![일출2](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.webp){: .short-image}
 
-![일출3](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.webp){: .short-image}
-  
+생각보다 운해가 두터워 어제 보이던 산들이 대부분 운해에 묻혔다. 여기저기 정수리만 간신히 내민 산들. 운해가 바람에 흘러 산마루를 이쪽 저쪽으로 넘어가는 모습이 신기했다. 
 
-![일출4](../assets/images/2024-02-17-backpacking eokkaebong/sunrise_eokkaebong.webp){: .short-image}
+![일출3](../assets/images/2024-02-17-backpacking eokkaebong/sunrise_eokkaebong.webp){: .short-image}
   
+해가 올라온다.  
+
 ![해뜬후](../assets/images/2024-02-17-backpacking eokkaebong/after_sunrise_eokkaebong.webp){: .short-image}
+  
+해가 뜨고 나서도 운해가 좀처럼  
 
 ##### # 하산 중 만난 은인
 ![다시128계단](../assets/images/2024-02-17-backpacking eokkaebong/stair_deck_eokkaebong.webp){: .long-image}
