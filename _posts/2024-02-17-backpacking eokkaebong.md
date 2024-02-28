@@ -2,8 +2,8 @@
 layout: post
 title:  "운해가 아름다웠던 어깨산 백패킹 후기 - Sep.2023"
 author: #mrkyia
-categories: [ Travels ]
-tag : [ 백패킹, 어꺠산 ]
+categories: [ Backpackings ]
+tag : [ 백패킹, 어깨산 ]
 image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.webp
 ---
 ##### # 열심히 놀겠다는 다짐
@@ -19,7 +19,7 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
   
 옥천역 도착. 하지만 주변을 돌아볼 틈은 없었다. 하루 단 네 대만 운행하는 시내버스를 타기 위해 달려야 했기 때문이다. 열차가 멈추기 직전 실시간 정보를 확인하니 버스는 도착 3분 전. 평소 같았다면 느긋하게 다음 차를 기다렸을 텐데 다음이 없는 이런 경우는 뛸 수밖에. 심호흡을 하고 정류장을 향해 뛰었다. 뛰기 전 빠르게 한 컷.     
 
-#### # 자차가 아니면 좀 어렵네요  
+##### # 뚜벅이는 계획을 철저히 세워야
 ![시내버스를타고](../assets/images/2024-02-17-backpacking eokkaebong/city_bus_eokkaebong.webp){: .long-image}
   
 역에서 정류장 까지는 생각보다 멀지 않아 가까스로 세이프. 하지만 저녁으로 먹을 것을 사지 못했다. 어째야 하나 싶어 지도를 봤는데, 다행히 정류장 근처에 금강 휴게소가 있었다. 버스를 내려 금강 휴게소에 들리기로 결정. 청량한 바람을 맞으며 한 숨 돌리는 사이 버스는 구불구불한 국도를 따라 교외로 향했다.
@@ -47,7 +47,7 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
   
 등산로 초입에 다다르면 이렇게 고속도로와 국도 사이의 주차장이 나온다. 아마도 예전 도로를 주차장으로 활용 중인 듯. 잠깐이지만 블럭을 넘어 안전하게 걸었다.
   
-#### # 어깨산 정상까지
+##### # 어깨산 정상과 하늘 전망대로
 ![마지막화장실](../assets/images/2024-02-17-backpacking eokkaebong/toilet__eokkaebong.webp){: .short-image}
   
 주차장 맡은 편에 공터가 등산로 입구다. 이렇게 화장실이 있으니 참고. 등산 안내도 뒤 경사로를 따라 올라가면 된다.  
@@ -58,7 +58,7 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
 
 ![등산로초입](../assets/images/2024-02-17-backpacking eokkaebong/road_eokkaebong.webp){: .long-image}
   
-마음이 급해서 페이스를 올린 탓인지 등산로를 들어온 지 얼마 지나지 않아 숨이 찼다. 그래서 중간중간 숨을 고르면서 올라 온 길을 돌아 보았다. 오를 때는 그렇게 깎아지는 경사처럼 느껴지던 등산로가 거짓말처럼 완만해 보였다. "지나고 보면 별 거 아니더라." 를 몸으로 배운 느낌.  
+마음이 급해서 페이스를 올린 탓인지 등산로를 들어온 지 얼마 지나지 않아 숨이 찼다. 그래서 중간중간 숨을 고르면서 올라 온 길을 돌아 보았다. 오를 때는 그렇게 깎아지는 경사처럼 느껴지던 등산로가 거짓말처럼 완만해 보였다. "지나고 보면 별 거 아니더라." 를 몸으로 배운 느낌이었다.  
 
 ![어꺠갈림길](../assets/images/2024-02-17-backpacking eokkaebong/sign_eokkaebong.webp){: .long-image}
   
@@ -66,24 +66,63 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
 
 ![128계단](../assets/images/2024-02-17-backpacking eokkaebong/stairs_eokkaebong.webp){: .long-image}
   
-조금 더 올라가니 계단이 나왔다. 정말로 128단 인지 세어보며 올라가니 금방 올라
+조금 더 올라가니 계단이 나왔다. 정말 128단인지 세면서 올라가니 금방 도착했다. 종종 이런 걸 직접 확인 해보고 싶을 때가 있는데, 나만 그런가?
 
-![어깨정등산안내도](../assets/images/2024-02-17-backpacking eokkaebong/info_board_eokkaebong.webp){: .long-image}
+![어깨정등산안내도](../assets/images/2024-02-17-backpacking eokkaebong/eokkaejung_eokkaebong.webp){: .short-image}
+  
+가파른 구간을 한 번 더 지나면 어깨정이 나온다. 근사한 정자는 아니고 지붕이 있다 정도. 조망이 나쁘진 않지만 정상과 하늘전망대 쪽 보다는 덜하다. 만약 두 곳 모두 텐트 칠 곳이 없다면 생각해 볼만 한 곳.
+
 ![하늘전망대](../assets/images/2024-02-17-backpacking eokkaebong/observatory_eokkaebong.webp){: .long-image}
+  
+정상을 지나쳐 하늘전망대를 먼저 찾았다. 주변이 탁 트인 데크는 텐트 세 동을 피칭 할만 한 공간이었다. 
+
 ![하늘전망대풍경](../assets/images/2024-02-17-backpacking eokkaebong/veiw_eokkaebong.webp){: .short-image}
+  
+구불구불 흐르는 금강 줄기와 겹겹이 서 있는 산들이 발 아래로 펼쳐진다. 그림과 같은 풍경에 한참을 멍 하니 구경하다가 두 분이 피칭을 준비하고 계셔서 배낭을 놓아둔 정상으로 돌아갔다.
+
+##### # 정상에서의 하룻밤  
 ![한상차림](../assets/images/2024-02-17-backpacking eokkaebong/dinner_table_eokkaebong.webp){: .long-image}
-![예쁜달](../assets/images/2024-02-17-backpacking eokkaebong/moon_wide_eokkaebong.webp){: .short-image}
-![달보고밥먹고](../assets/images/2024-02-17-backpacking eokkaebong/burger_soju_eokkaebong.webp){: .short-image}
+  
+서둘러 텐트를 치고 밥 먹을 준비를 했다. 소주에 햄버거라, 이 조합을 시도해 본 적이 있었나? 해가 지는 방향으로 테이블을 놓고 잠깐 베낭에서 랜턴을 꺼내오는데 달이 보였다.  
+
+![예쁜달](../assets/images/2024-02-17-backpacking eokkaebong/dinner_with_moon_eokkaebong.webp){: .short-image}
+
+달이 너무 예뻐서 자리를 옮겼다. 배고픔도 잊고서 이렇게 저렇게 달을 찍었는데 눈에 보이는 만큼 담기지 않아서 속상했다.     
+
 ![산과달](../assets/images/2024-02-17-backpacking eokkaebong/moon_eokkaebong.webp){: .long-image}
+  
+그래도 그 중 가장 마음에 드는 사진. 구름 한 점 없는 높은 하늘에 달 하나 덩그러니. 만족스럽게 버거를 베어 물었다. 소주와도 궁합이 괜찮은게 역시 완전 식품답다.   
+
 ![일몰](../assets/images/2024-02-17-backpacking eokkaebong/sunset_eokkaebong.webp){: .long-image}
+  
+저 쪽에서 해가 떨어지기 시작했다. 산에 오면 좋은 점 중 하나, 일몰을 보면 오늘 하루 열심히 산 것 같은 느낌이 든다는 점.  
+
 ![일몰기지국](../assets/images/2024-02-17-backpacking eokkaebong/base_station_eokkaebong.webp){: .long-image}
-![아마도옥천](../assets/images/2024-02-17-backpacking eokkaebong/city_veiw_eokkaebong.webp){: .long-image}
+  
+하늘이 가장 붉었던 순간 하늘이 목성 고리 같아서 한 컷. 저 멀리 기지국에서는 어떤 하늘이 보일까.  
+
 ![일몰텐트](../assets/images/2024-02-17-backpacking eokkaebong/sunset_tent_eokkaebong.webp){: .short-image}
+  
+텐트에 조명을 켜두고 한참 동안 풀벌레 소리를 들었다. 벌레가 꼬이는건 싫은데 풀벌레 소리는 그렇게 좋을 수가 없다. 귀뚜라미 소리가 가을 밤을 채웠다. 완벽한 하루끝. 
+  
+자러 들어가기 전 주변을 돌아보니 급격히 떨어진 온도에 이미 강가를 따라 운해가 올라오고 있었다. 밤 사이 바람이 강하지 않기를 기도하며 잠이 들었다.  
+   
+##### # 인생 첫 운해, 대성공
 ![일출1](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_3_eokkaebong.webp){: .short-image}
+  
+우와, 하는 소리에 잠이 깨 헐레벌떡 텐트 밖으로 나왔다. 눈 앞에 펼쳐진 광경에 나 역시 우와가 절로 나왔다. 
+
 ![일출2](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_eokkaebong.webp){: .short-image}
+  
+
 ![일출3](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.webp){: .short-image}
+  
+
 ![일출4](../assets/images/2024-02-17-backpacking eokkaebong/sunrise_eokkaebong.webp){: .short-image}
+  
 ![해뜬후](../assets/images/2024-02-17-backpacking eokkaebong/after_sunrise_eokkaebong.webp){: .short-image}
+
+##### # 하산 중 만난 은인
 ![다시128계단](../assets/images/2024-02-17-backpacking eokkaebong/stair_deck_eokkaebong.webp){: .long-image}
 ![거미줄](../assets/images/2024-02-17-backpacking eokkaebong/spider_web_eokkaebong.webp){: .long-image}
 ![은인](../assets/images/2024-02-17-backpacking eokkaebong/stranger_eokkaebong.webp){: .long-image}

@@ -2,7 +2,7 @@
 layout: post
 title:  "야생화 가득 선자령 백패킹 후기 - Apr.2023"
 author: #mrkyia
-categories: [ Travels ]
+categories: [ Backpackings ]
 tag : [ 백패킹, 선자령 ]
 image: assets/images/2024-01-18-backpacking seonjaryeong/main_site_seonjaryeong_backpacking.webp
 ---
