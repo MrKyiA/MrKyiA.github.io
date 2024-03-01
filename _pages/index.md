@@ -1,5 +1,5 @@
 ---
 layout: categories
-title: Index 
+title: 믈캬의 창고 
 permalink: /index
 ---
