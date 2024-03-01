@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "운해가 아름다웠던 어깨산 백패킹 후기 - Sep.2023"
+title: 운해가 아름다웠던 어깨산 백패킹 후기 - Sep.2023
 author: #mrkyia
 categories: [ Backpackings ]
-tag : [ 백패킹, 어깨산 ]
+tag : [ 백패킹, 충북, 옥천, 어깨산 ]
 image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.webp
+published: true
 ---
 ##### # 열심히 놀겠다는 다짐
 선선한 날씨와 부쩍 높아진 하늘이 출근길마저 설레게 하던 가을 날, 서울 근교를 벗어나 멀리 떠나고 싶어졌다. 그래서 찾게 된 옥천 어깨봉. 일교차가 큰 가을에는 운해를 볼 수 있다기에 부푼 맘으로 여정을 시작했다.   

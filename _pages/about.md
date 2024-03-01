@@ -2,7 +2,7 @@
 layout: page
 title: mrkyia [믈ː캬] 의 블로그  
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">

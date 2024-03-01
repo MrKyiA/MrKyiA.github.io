@@ -3,8 +3,9 @@ layout: post
 title: 한국의 세렝게티 무의도 백패킹 후기 - Sep.2023
 author: #mrkyia
 categories: [ Backpackings ]
-tag : [ 백패킹, 무의도 ]
+tag : [ 백패킹, 인천, 무의도 ]
 image: assets/images/2024-02-01-backpacking muuido/camp_site_muuido.webp
+published: true
 ---
 
 늦더위가 기승이었던 9월 초, 비온 뒤 날씨가 살짝 풀렸다. 이 때다 싶어 찾게된 무의도 무렝게티. 평소에 가보고 싶은 곳이기도 했고 마침 약속이 있었는데 동선이 너무나 깔끔하게 맞길래 고민없이 짐을 쌌다. 약속 장소는 인천 공항. 무의도로 가는 버스도 이 곳에서 출발한다. 로스 없는 동선 너무 좋구요.

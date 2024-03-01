@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "야생화 가득 선자령 백패킹 후기 - Apr.2023"
+title: 야생화 가득 선자령 백패킹 후기 - Apr.2023
 author: #mrkyia
 categories: [ Backpackings ]
-tag : [ 백패킹, 선자령 ]
+tag : [ 백패킹, 강원, 평창, 선자령 ]
 image: assets/images/2024-01-18-backpacking seonjaryeong/main_site_seonjaryeong_backpacking.webp
+published: true
 ---
 ##### # 절대 밖으로 나가야만 하는 날씨
 특별한 계획없이 집에서 푹 쉬어야 겠다는 생각으로 맞이한 연휴 첫 날, 날씨가 얼마나 좋던지 집 앞 편의점에 다녀오는데도 기분이 좋아졌다. 거실 창을 활짝 열고 의자를 젖혀 앉아 볕을 쐐다가 문득 절대 지붕 아래 있어서는 안되겠다는 생각이 들었다. 뭘 하면 좋을까 고민 끝에 올해 백패킹을 개시 해보기로 했다. 행선지를 정하는데에는 오랜 시간이 걸리지 않았다. 초보 백패커에게는 안 가본 곳이 아주 많기 때문에 :D "뚜벅이 선자령 후기"를 찾아보고 횡계로 가는 시외버스를 예약했다.    
