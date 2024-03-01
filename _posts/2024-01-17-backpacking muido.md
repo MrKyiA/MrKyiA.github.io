@@ -25,38 +25,38 @@ published: true
   
 편의점에 들러 물과 먹을 것을 충전하고 호룡곡산 등산로 입구로 향했다. 둥산로 입구는 광명항으로 들어오는 길을 되돌아 조금 올라가면 찾을 수 있다. 일단 안내판에는 표시가 되어있지 않고, 가는 길이 헷갈린다는 후기를 봤는데 어떻게 되겠지 뭐. 후기 몇 개와 나의 경험을 종합해보면 이렇다. 1. 산을 넘어 해안가를 두 번 지나면 된다. 2. 처음 만나는 해안가에서 길은 두가지! 자갈이 많지만 포토존이 있는 바닷 길, 도착 시간이 빠른 산 길. 만조에는 바닷 길이 잠긴다.   
 
-![산행중보이는해안](../assets/images/2024-02-01-backpacking muuido/mountain_path_muuido.webp){: .short-image}
+![산행 중 보이는 해안](../assets/images/2024-02-01-backpacking muuido/mountain_path_muuido.webp){: .short-image}
 
 밭과 무덤을 지나서 산행을 하다보면 보이는 뷰. 아래로 보이는 해변으로 가는 길도 있었다. 사람 적은 곳을 선호한다면 나쁘지 않을지도.
     
-![첫번째해안](../assets/images/2024-02-01-backpacking muuido/coastal_path_muuido.webp){: .long-image}
+![첫 번째 해안](../assets/images/2024-02-01-backpacking muuido/coastal_path_muuido.webp){: .long-image}
   
 설렁설렁 가다보니 금방 마주친 첫번째 해안가. 나무 사이로 시야가 트이면서 해안가가 모습을 드러내는데, 숨겨진 장소에 발을 들인 듯한 느낌이 들었다. 급경사인 바위를 조심조심 내려와 숨을 고르면서 어디로 갈지 고민을 해본다. 바닷길은 물이 빠지는 간조 때만 이용 할 수 있으니, 그 쪽으로 가고 싶다면 반드시 물 때를 확인 해야한다. 그걸 모르고 갈 때는 산 길, 돌아올 때 바닷길로 가야지 라고 생각했던 나는 돌아오는 날 잠겨버린 바닷길을 보고 적잖이 당황했다.  
 산 길은 해안가 끄트머리에 있는데, 처음부터 경사가 급해 헥헥대며 올라갔었던 것 같다. 그렇게 고개를 넘어 두 번째 해안에서 조금 더 깊이 들어가면 어렵지 않게 세렝게티에 도착할 수 있었다.  
 
 ##### # 잔잔한 파도와 깍아지른 바위산, 기분 좋은 바람까지
-![바다근처](../assets/images/2024-02-01-backpacking muuido/campsite_view_muuido.webp){: .short-image}  
+![바다 근처](../assets/images/2024-02-01-backpacking muuido/campsite_view_muuido.webp){: .short-image}  
   
 예상대로 이미 많은 분들이 와계셨다. 대부분 바다 근처에 자리를 잡았고 특히 일몰이 보이는 제일 안쪽은 단체로 온 분들이 있었다. 길을 따라 제일 안 쪽까지 몇 번 왔다갔다 하며 자리를 가늠해 보다가 붐비는 것이 싫어 길 안쪽의 바위산 밑에 자리를 잡기로 했다. 사람 키 높이의 수풀로 들어가기 전 아가 나무로 빙 둘러진 공간이 좋아보였다. 
-![바위산](../assets/images/2024-02-01-backpacking muuido/rocky_mountains_muuido.webp){: .short-image}
+![바위 산](../assets/images/2024-02-01-backpacking muuido/rocky_mountains_muuido.webp){: .short-image}
 
 텐트를 치기 전 바다 쪽에서 바라본 바위산은 아담하지만 평평한 지대에 불쑥 솟아있어 새삼 웅장해보였다. 탁 트인 바다 전망이 없어 아쉽긴 했지만 곧 해가 지면 이 쪽이 더 조용하고 광해도 덜 것 같았고, 산을 배경으로 텐트 사진을 남길 수 있다는 점도 장점이었다. 
 
-![캠프사이트](../assets/images/2024-02-01-backpacking muuido/camp_site_muuido.webp){: .short-image}
+![캠프 사이트](../assets/images/2024-02-01-backpacking muuido/camp_site_muuido.webp){: .short-image}
 
 짜잔! 생각보다 멋진 구도가 나와서 대만족. 산을 최대한 나오게 하려다 보니 나무가 기괴하게 휘어버리고 텐트가 조막만해졌다. 사진 몰라요~ 😋
 
-![단단히막힌바다뷰](../assets/images/2024-02-01-backpacking muuido/sea_view_muuido.webp){: .short-image}
+![단단히 막힌 바다뷰](../assets/images/2024-02-01-backpacking muuido/sea_view_muuido.webp){: .short-image}
   
 바다는 이렇게 단단히 막힌 뷰였지만, 바위에 잠깐 올라가서 보고 오는 것 만으로도 충분했다. 
   
 ##### # 밖에서 먹고 마시면 왜 더 맛있게요?
-![먹고놀고](../assets/images/2024-02-01-backpacking muuido/c.webp){: .short-image}
+![먹고 또 놀고](../assets/images/2024-02-01-backpacking muuido/c.webp){: .short-image}
   
 짐을 풀고 느긋하게 시간을 보내다 이른 저녁을 먹었다. 아직 벌레가 많을 때여서 어두워지면 불빛에 벌레가 꼬이는게 싫어 무거운 음식은 해 지기 전에 해치우기로. 점심을 늦게 먹은 탓에 간단한 술 안주 하나와 과자 몇 개만 들고 왔는데 그 마저도 양이 많아 그러길 잘했다고 생각했다. 산책 중에 한 손에 쏙 들어오는 하얗고 예쁜 돌이 보여서 GET! 오늘의 술 친구로 삼았다. 메인 안주는 매운 껍데기. 기름기가 가득해서 버번과 조합이 썩 좋았다. 입가심으로 친구 여자친구분이 준 대만 과자도 하나 먹었다. 고소하고 달달한 맛이 자꾸 생각 나 일몰을 보고 돌아와 남은 몇 개를 다 떨어먹었다.
   
 ##### # 어느새 다가온 무렝게티의 일몰 
-![일몰뷰포인트](../assets/images/2024-02-01-backpacking muuido/sunset_view_point_muuido.webp){: .long-image}
+![일몰 뷰포인트](../assets/images/2024-02-01-backpacking muuido/sunset_view_point_muuido.webp){: .long-image}
   
 먹고 마시다 보니 어느새 해가 이만큼 내려와 하늘이 붉어져 있었다. 일몰을 보기 위해 무렝게티 제일 안 쪽으로 향했다. 몇 달 뒤에는 일몰이 더 예쁘다는 말을 어디선가 들어서 그 때도 한 번 와보면 좋겠다고 생각했다.
   
@@ -72,7 +72,7 @@ published: true
   
 돌아와서 다시 앉아 멍 하니 있는데, 일몰을 보고 돌아가던 커플이 가던 걸음을 돌아 텐트를 구경하러 오셨다. 잠깐 보고 가셨는데 감사의 뜻으로 혼자 온 나를 위해 DSLR을 들고오셔서 사진을 잔뜩 찍어주셨다. 그 중 절묘하게 얼굴이 가려져 포스팅하기에 딱 인 사진도 있어서 선정. 확실히 폰 카메라와는 다름이 느껴진다. 선의를 되로 주고 말로 받은 느낌이 들어서 몇 개 안남은 대만 과자를 드렸다. 항상 받기만 하면서 다음엔 나도 덕업을 쌓자고 다짐해본다.  
   
-![붉은하늘](../assets/images/2024-02-01-backpacking muuido/after_sunset_muuido.webp){: .long-image}
+![붉은 하늘](../assets/images/2024-02-01-backpacking muuido/after_sunset_muuido.webp){: .long-image}
   
 구름이 점점 몰려와 내일 일출은 못보겠다 생각을 하던차에 이제는 완전히 구름 뒤로 사라진 해가 구름을 빨갛게 물들였다. 잠깐이지만 해가 완전히 질 때까지 의자를 돌려 앉아 석양 멍을 즐겼다.  
 
@@ -88,6 +88,6 @@ published: true
   
 두 번째 해안가에서 첫 번째 해안가로 넘어가는 바닷길이 바닷물이 들어와 막혀있었다. 산 길 초입 까지도 물이 차있어서 도대체 어떻게 가야할 지 막막했다. 어쩌겠어 가봐야지 뭐. 어찌어찌 물가를 따라 이동하는데 도무지 발이 젖지 않고는 건널 수 없는 곳들이 서너군데 있었다. 허벅지 깊이까지 물이 차는 곳 도 있어서 반바지가 살짝 젖었다. 크록스가 아니었으면 진짜 울고 싶었을 듯. 산 길 초입에 다다라서 반대편을 보는데 나와 같은 처지의 분이 멀리 보였다. 왠지 거기까지 어떻게 갔는지 물어오는 것 같아서 열심히 혼자 몸으로 말해요를 했다. 이렇게 돌아왔어요 이렇게. 왜저러나 싶었을 수도 있겠다 싶어 뒤늦게 민망함이 몰려왔다. 다음번에 올 때는 물 때를 꼭 확인하기로.
   
-![게와버섯](../assets/images/2024-02-01-backpacking muuido/crab_and_mushroom_muuido.webp){: .long-image}
+![게와 버섯](../assets/images/2024-02-01-backpacking muuido/crab_and_mushroom_muuido.webp){: .long-image}
 
 밤새 습기를 잔뜩 먹은 산은 어제와 또 많이 달랐다. 그래서 산 길을 타면서는 다시 컨디션이 좋아졌다. 올 때는 보지 못했던 것들이 많이 보였기 때문이다. 꽤 큰 게들이 어디서 나타났는지 가만 있으면 거기 있는지 몰랐을텐데 굳이 존재를 알리며 바위로 숨는 모습이 너무 귀여웠다. 아무튼 우여곡절 끝에 무의도 세렝게티 백패킹 끝!
