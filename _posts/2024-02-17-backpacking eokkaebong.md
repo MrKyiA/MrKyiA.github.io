@@ -60,7 +60,7 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
   
 마음이 급해서 페이스를 올린 탓인지 등산로를 들어온 지 얼마 지나지 않아 숨이 찼다. 그래서 중간중간 숨을 고르면서 올라 온 길을 돌아 보았다. 오를 때는 그렇게 깎아지는 경사처럼 느껴지던 등산로가 거짓말처럼 완만해 보였다. "지나고 보면 별 거 아니더라." 를 몸으로 배운 느낌이었다.  
 
-![어꺠갈림길](../assets/images/2024-02-17-backpacking eokkaebong/sign_eokkaebong.webp){: .long-image}
+![어깨갈림길](../assets/images/2024-02-17-backpacking eokkaebong/sign_eokkaebong.webp){: .long-image}
   
 금강 전망대 부터는 비교적 완만한 능선을 따라 이동했다. 어느새 도착한 어깨 갈림길. 임도 주차장에서 출발하면 더 짧은 산행이 가능할 것 같다. 다음에 차로 올 때에는 저 쪽에서 출발 해보기로.  
 
@@ -74,7 +74,6 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
 
 ![하늘전망대](../assets/images/2024-02-17-backpacking eokkaebong/observatory_eokkaebong.webp){: .long-image}
   
-정상을 지나쳐 하늘전망대를 먼저 찾았다. 주변이 탁 트인 데크는 텐트 세 동을 피칭 할만 한 공간이었다. 
 
 ![하늘전망대풍경](../assets/images/2024-02-17-backpacking eokkaebong/veiw_eokkaebong.webp){: .short-image}
   
@@ -91,7 +90,7 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
 
 ![산과달](../assets/images/2024-02-17-backpacking eokkaebong/moon_eokkaebong.webp){: .long-image}
   
-그래도 그 중 가장 마음에 드는 사진. 구름 한 점 없는 높은 하늘에 달 하나 덩그러니. 만족스럽게 버거를 베어 물었다. 소주와도 궁합이 괜찮은게 역시 완전 식품답다.   
+그래도 그 중 가장 마음에 드는 사진. 구름 한 점 없는 높은 하늘에 달 하나 덩그러니. 만족스럽게 식사 시작. 햄버거 소주 궁합이 괜찮다. 역시 완전 식품.   
 
 ![일몰](../assets/images/2024-02-17-backpacking eokkaebong/sunset_eokkaebong.webp){: .long-image}
   
@@ -105,26 +104,39 @@ image: assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.we
   
 텐트에 조명을 켜두고 한참 동안 풀벌레 소리를 들었다. 벌레가 꼬이는건 싫은데 풀벌레 소리는 그렇게 좋을 수가 없다. 귀뚜라미 소리가 가을 밤을 채웠다. 완벽한 하루끝. 
   
-자러 들어가기 전 주변을 돌아보니 급격히 떨어진 온도에 이미 강가를 따라 운해가 올라오고 있었다. 밤 사이 바람이 강하지 않기를 기도하며 잠이 들었다.  
+자러 들어가기 전 주변을 돌아보니 급격히 떨어진 온도에 이미 강가를 따라 운해가 올라오고 있었다. 바람이 강하면 운해가 흩어져 사라진다는 얘기를 어디선가 들었다. 밤 사이 바람이 강하지 않기를 기도하며 잠이 들었다.  
    
-##### # 인생 첫 운해 대성공
+##### # 나는 운이 좋았지
 ![일출1](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_3_eokkaebong.webp){: .short-image}
   
 우와, 하는 소리에 잠이 깨 헐레벌떡 텐트 밖으로 나왔다. 눈 앞에 펼쳐진 광경에 나 역시 우와ㅏㅏㅏ가 절로 나왔다. 먼저 나와 계신 분들과 인사를 하고 다시 서로 우와우와 했다.
 
 ![일출2](../assets/images/2024-02-17-backpacking eokkaebong/cloud_sea_2_eokkaebong.webp){: .short-image}
 
-생각보다 운해가 두터워 어제 보이던 산들이 대부분 운해에 묻혔다. 여기저기 정수리만 간신히 내민 산들. 운해가 바람에 흘러 산마루를 이쪽 저쪽으로 넘어가는 모습이 신기했다. 
+생각보다 운해가 두터워 어제 보이던 산들이 대부분 운해에 묻혔다. 여기저기 정수리만 간신히 내민 산들. 운해가 바람을 타고 산마루 이쪽 저쪽을 흘러가는 모습이 신기했다. 
 
 ![일출3](../assets/images/2024-02-17-backpacking eokkaebong/sunrise_eokkaebong.webp){: .short-image}
   
-해가 올라온다.  
+산 꼭대기가 꼭 바다 위의 섬 같다. 그래서 운해구나. 텐트를 걷고 짐을 정리했다. 흔적을 남기지 않기, 함께 해요 LNT. 정리를 하면서 옆에 계신 분과 몇 마디 나누었는데, 이렇게 멋진 운해는 손에 꼽는다며 운 좋은 줄 알라고 하셨다. 예 맞아요. 저는 운이 좋아요😊. 
 
 ![해뜬후](../assets/images/2024-02-17-backpacking eokkaebong/after_sunrise_eokkaebong.webp){: .short-image}
   
-해가 뜨고 나서도 운해가 좀처럼  
+어느새 해가 구름 위로 올라왔다. 이제는 하산 할 시간. 잘 있다 갑니다.  
 
-##### # 하산 중 만난 은인
+##### # 하산 중 만난 귀인
+  
+넋을 놓고 운해를 보다가 출발해야 할 시간을 훌쩍 넘어 하산길에 올랐다. 이번 여정은 공교롭게도 짐만 메면 마음이 조급해지네. 산을 감고있는 운해로 가시거리가 매우 짧아 열댓 걸음 앞도 잘 안보였다. 잰걸음으로 하산 시작.
+
 ![다시128계단](../assets/images/2024-02-17-backpacking eokkaebong/stair_deck_eokkaebong.webp){: .long-image}
+  
+다시 만난 128계단. 어제는 저 멀리까지 보였는데 온 세상이 뿌옇다.   
+  
 ![거미줄](../assets/images/2024-02-17-backpacking eokkaebong/spider_web_eokkaebong.webp){: .long-image}
-![은인](../assets/images/2024-02-17-backpacking eokkaebong/stranger_eokkaebong.webp){: .long-image}
+  
+그 와중에 잘 보이는 것이 있으니 그것은 거미줄. 습기를 잔뜩 맞아 물방울이 방울방울 달려 있다. 거미줄이 이렇게나 크구나, 벌레가 안잡힐 수가 없겠다 싶었다. 
+
+![귀인](../assets/images/2024-02-17-backpacking eokkaebong/stranger_eokkaebong.webp){: .long-image}
+  
+속도를 높여 내려가니 먼저 내려가시던 분들을 앞질렀다. 어깨 갈림길 즈음에 또 한 분을 만났는데 페이스가 비슷해서 그 뒤로 엎치락 뒤치락 했다.  
+그 분이 귀인인 걸 알게 된 것은 하산이 끝나갈 때 쯤이었다. 갑자기 앞서 가던 걸음을 멈추고 뒤를 돌아 내게 버스를 타고 왔냐고 물으셨다. 아마 정상에서 다른 분과 하던 얘기를 들으신 모양이다. 그렇다고 하니 역이나 터미널까지 태워다 주신다고 하셨다. 혹시 천사신가요😇. 호의에 어떻게 보답해야하나 고민하다가 구도가 예뻐서 하산길에 한 장. 혹시 불쾌하실 수 있어 차를 타고 가면서 조심스럽게 사진을 보여드렸는데 다행히 괜찮아 하셨다. 그렇게 귀인을 만나 옥천역으로. 도착해서 뭐라도 사다 드리려고 했는데 열차 시간이 너무 촉박해 간신히 사진만 에어드랍 드렸다. 너무 감사했습니다. 복 받으실 거에요.  
+매 번 이렇게 선의만 받다가는 덕업 부채에 허덕이는 신용불량자가 될 것 같다는 생각이 들어 다음 산행에는 쓰레기 하나 더 줍자고 다짐했다.어깨산 백패킹 끝!    
