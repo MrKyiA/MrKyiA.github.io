@@ -8,6 +8,9 @@ image: assets/images/2024-02-20-backpacking oseosan/c_with_reeds_oseosan.webp
 published: true
 ---
 ##### #작성중
+
+##### # 오랜만에 어샘블
+오랜만에 백패킹 메이트 C가 선뜻 먼저
 ![국도](../assets/images/2024-02-20-backpacking oseosan/on_road_oseosan.webp){: .short-image}
  
 ![등산로 초입](../assets/images/2024-02-20-backpacking oseosan/ascent_trail_oseosan.webp){: .long-image}

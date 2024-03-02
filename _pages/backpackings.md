@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Backpackings 
-permalink: /Backpackings
+permalink: /backpackings
 comments: true
 ---
