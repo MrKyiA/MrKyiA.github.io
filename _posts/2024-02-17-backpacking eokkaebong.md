@@ -75,6 +75,7 @@ published: true
 
 ![하늘전망대](../assets/images/2024-02-17-backpacking eokkaebong/observatory_eokkaebong.webp){: .long-image}
   
+정상을 지나쳐 하늘 전망대를 먼저 찾았다. 주변이 탁 트인 데크는 텐트 세 동을 피칭할 만한 공간이었다.
 
 ![하늘전망대 풍경](../assets/images/2024-02-17-backpacking eokkaebong/veiw_eokkaebong.webp){: .short-image}
   
