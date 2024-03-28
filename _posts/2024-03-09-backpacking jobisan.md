@@ -22,12 +22,15 @@ published: true
   
 ![설치하다가](../assets/images/2024-03-01-backpacking jobisan/under_setting_jobisian.webp){: .short-image}
   
-코스가 어려운 것도 아니고 박지가 부족한 것도 아닌데 왜 삼고초려를 하게 되었나 하면 얘기는 이렇다.
+코스가 어려운 것도 아니고 박지가 부족한 것도 아닌데 왜 삼고초려를 하게 되었나 하면 얘기는 이렇다.  
+첫 번째 계획은 함께 가기로 한 친구가 전날 약속을 취소했다. 그래서 다른 곳 솔캠으로 계획 변경.  
+두 번째 계획의 이변은 놀랍게도 박지에 도착해서 일어났다. 정상을 둘러보고 내려와 텐트를 막 치던 때, 친구에게 급한 사정이 생긴 것. 뚜벅이인 본인은 돌아갈 길도 막막하고, 동굴에 혼자라니 갑자기 조금 무서워져 같이 철수하기로 했다. 미처 다 치지 못한 텐트가 황망함을 여실히 보여준다.   
+그래서 이번 후기는 한 달 터울의 사진이 섞여 있음을 참고.  
 
 ##### # 정상까지 단 20분
 
 > 조비산 가는 법
-> 🚌 대중교통 이용 시 : : 죽산시외버스터미널/백암터미널에서 택시,시내버스 이용  
+> 🚌 대중교통 이용 시 : 죽산시외버스터미널/백암터미널에서 택시,시내버스 이용  
 > &nbsp;&nbsp;&nbsp;105번 백암터미널 ↔ 용천2리  
 > &nbsp;&nbsp;&nbsp;10-4번 백암터미널 ↔ 장평삼거리  
 > &nbsp;&nbsp;&nbsp;시간표는 <a href="https://www.gbis.go.kr/"> 경기 버스정보</a> 에서 확인 할 수 있다.    
@@ -48,7 +51,7 @@ published: true
   
 ![동굴 도착](../assets/images/2024-03-01-backpacking jobisan/nobody_jobisian.webp){: .short-image} 
   
-정상 표지판을 따라 조금만 더 걷다 보면 이렇게 목적지인 동굴이 나온다. 눈이 많이 내린 후여서 인지 아무도 없어 사방이 조용했다. 이따금 동굴 천장에서 떨어지는 물방울이 투두둑하며 적막을 깨뜨렸다.    
+정상 표지판을 따라 조금만 더 걷다 보면 이렇게 목적지인 동굴이 나온다. 눈이 많이 내린 후여서 인지 아무도 없어 사방이 조용했다. 이따금 동굴 천장에서 떨어지는 물방울이 투두둑하며 적막을 깨뜨렸다.  
   
 ![동굴](../assets/images/2024-03-01-backpacking jobisan/cave_jobisian.webp){: .long-image} 
   
@@ -56,26 +59,25 @@ published: true
   
 ![조비산 정상](../assets/images/2024-03-01-backpacking jobisan/summit_marker_jobisian.webp){: .long-image}
   
-텐트를 치기 전 짐을 내려놓고 정상으로 향했다. 동굴에서 정상까지는 가파른 계단으로 이어져 있는데 그나마도 짧아 숨이 찰 때쯤 정상에 도착할 수 있었다. 조비산 정상비. 몽글몽글 귀엽다.  
+짐을 내려놓고 정상으로 향했다. 동굴에서 정상까지는 가파른 계단으로 이어져 있는데 그나마도 짧아 숨이 찰 때쯤 정상에 도착할 수 있었다. 조비산 정상비. 몽글몽글 귀엽다.  
     
 ![정상 데크](../assets/images/2024-03-01-backpacking jobisan/summit_deck_jobisian.webp){: .short-image} 
   
-정상비를 조금 지나면 전망대가 있다. 높은 산이 아닌데도 주변에 시야를 가리는 산이 없어 경치가 제법 괜찮았다. 전망대 데크는 텐트 서너 동 정도는 가뿐히 칠 수 있을 것 같았다.  
+정상비를 조금 지나면 전망대가 있다. 높은 산이 아닌데도 주변에 시야를 가리는 것이 없어 경치가 제법 괜찮다. 전망대 데크는 텐트 네댓 동은 거뜬히 칠 수 있을 것 같았다.  
   
 ![정상 뷰](../assets/images/2024-03-01-backpacking jobisan/summit_view_jobisian.webp){: .short-image} 
   
-정상에서 보이는 풍경. 인근의 논밭과 물류 창고들이 보인다. 날이 흐린 게 좀 아쉬웠다.  
+전망대 뷰. 인근의 논밭과 물류 창고들이 보인다. 좋지도 나쁘지도 않은 경치. 날이 흐리고 바람이 강해 얼른 내려왔다.  
   
 ##### # 살 찌는 시간  
   
 ![스낵 타임](../assets/images/2024-03-01-backpacking jobisan/snack_time_jobisian.webp){: .short-image} 
   
-텐트를 치기에는 조금 이른시간. 바람을 쐬며 막걸리 한 잔 했다. 
+텐트를 치기에는 조금 이른시간어서 동굴 앞에서 막걸리 한 잔 걸쳤다. 맛동산이 맛있어졌다 = 트로트가 좋아졌다 = 나이가 들었다. 🥺  
 
 ![피칭 후](../assets/images/2024-03-01-backpacking jobisan/day_time_jobisian.webp){: .short-image} 
-1월 철수 직전에 찍은 사진. 다시 방문했을 때에는 이때처럼 열심히 사진을 찍지 않아서 괜찮은 사진이 없다. 게으름 + 익숙함이 주는 나태함의 결과. 반성합니다.  
-
-![동굴 앞 뷰](../assets/images/2024-03-01-backpacking jobisan/after_setting_tent_jobisan.webp){: .short-image} 
+  
+더 추워지기 전에 텐트를 치고 저녁 준비를 했다. 비교적 건조한 동절기임에도 동굴 내부는 습기가 올라와 입구 쪽에 자리를 잡았다. 이건 1월 철수 직전에 찍은 사진.
 
 ![저녁](../assets/images/2024-03-01-backpacking jobisan/dinner_jobisian.webp){: .long-image}
 
@@ -85,6 +87,5 @@ published: true
 ![얼어붙은 텐트](../assets/images/2024-03-01-backpacking jobisan/frozen_tent_jobisian.webp){: .short-image} 
 
 ![해뜬 후](../assets/images/2024-03-01-backpacking jobisan/after_sunrise_jobisian.webp){: .long-image}
-    
-![떠나기 전](../assets/images/2024-03-01-backpacking jobisan/view_jobisian.webp){: .long-image}
-    
+
+![동굴 앞 뷰](../assets/images/2024-03-01-backpacking jobisan/after_setting_tent_jobisan.webp){: .short-image} 
