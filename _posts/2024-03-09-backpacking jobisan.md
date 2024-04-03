@@ -7,8 +7,6 @@ tag : [ 백패킹, 경기, 용인, 조비산 ]
 image: assets/images/2024-03-01-backpacking jobisan/tent_in_cave_jobisian.webp
 published: true
 ---
-##### # 작성중
-
 오래전 박지를 검색하다가 동굴에서 백패킹을 하는 사진을 보게 되었다. 너무 재밌을 것 같으면서도 어디 얼마나 먼 곳인가 하고 봤더니, 생각보다 너무 가까워 TOGO 리스트에 오른 용인 조비산. 어쩌다 보니 3트 만에 성공한 우당탕탕 조비산 백패킹 후기 시-작!
   
 ![조비산](../assets/images/2024-03-01-backpacking jobisan/jobisan_jobisian.webp){: .short-image}  
