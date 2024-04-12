@@ -317,6 +317,10 @@ span.post-read-more a:hover {
     font-family: Righteous;
 }
 
+.mainheading .lead {
+    font-family: 'NanumSquareNeo-Variable', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
