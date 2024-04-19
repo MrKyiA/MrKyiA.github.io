@@ -15,9 +15,7 @@ permalink: "/category.html"
         </div>
         {% assign pages_list = category[1] %}
         {% for post in pages_list %}
-          {% if post.title and (group == null or group == post.group) and post.title == currentCategory %}
             {% include postbox.html %}
-          {% endif %}
         {% endfor %}
     {% endif %}
   {% endfor %}
